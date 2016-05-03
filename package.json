@@ -1,0 +1,30 @@
+{
+  "name": "learnmesomereact",
+  "version": "0.1.0",
+  "description": "A 90min introduction to React.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnbbrown/learnmesomereact.git"
+  },
+  "author": "Matthew Brown <me@matthewbrown.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnbbrown/learnmesomereact/issues"
+  },
+  "homepage": "https://github.com/mnbbrown/learnmesomereact#readme",
+  "devDependencies": {
+    "babel-core": "^6.8.0",
+    "babel-loader": "^6.2.4",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "html-webpack-plugin": "^2.16.1",
+    "webpack": "^1.13.0"
+  },
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
